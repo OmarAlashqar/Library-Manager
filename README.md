@@ -1,2 +1,8 @@
 # Library-Manager
-A little project I worked on a while back to try out Java GUI while having some fun.
+Java app for managing libraries with a styled GUI
+
+## Features
+* Adding and removing books to the database
+* Creating and deleting users from the database
+* Checking out and returning books per user
+* View books checked out per user
